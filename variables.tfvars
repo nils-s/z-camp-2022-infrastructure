@@ -1,0 +1,6 @@
+azure_subscription_id   = "<your Azure subscription ID>"
+azure_ad_tenant_id      = "<your Azure AD tenant ID>"
+resource_group_name     = "<a name under which all resources will be grouped>"
+container_registry_name = "<a name for the container registry; must be globally unique!>"
+cluster_name            = "<a name for the Kubernetes cluster>"
+cluster_dns_prefix      = "<a DNS prefix for the Kubernetes cluster>"
